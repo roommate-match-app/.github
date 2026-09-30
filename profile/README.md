@@ -1,9 +1,3 @@
-<div align="center">
-
-# КакДостатьСоседа
-<br>
-</div>
-
 <p align="center">
     <img src="./assets/profile_photo.jpg">
 </p>
